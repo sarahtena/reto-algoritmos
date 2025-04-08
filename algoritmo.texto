@@ -1,0 +1,3 @@
+n=int(input("Escriba el numero de movimientos: "))
+s=(pow(2,n)/2)*(17+3*n)
+print(int(s))
